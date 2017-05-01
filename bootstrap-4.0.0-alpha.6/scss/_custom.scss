@@ -1,0 +1,73 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+///////////////////////////////////////////////////////////////////////////
+
+//Container
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1200px
+);
+
+//Navbar
+$brand-primary: $white;
+$navbar-padding-y: 2rem;
+
+$navbar-light-color:  #506a85;
+
+//Fonts and backgrounds
+$font-family-base: "Source Sans Pro", Arial, sans-serif;
+$body-color: #73879c;
+$headings-color: #506a85;
+$font-size-h1: 6rem;
+$font-size-h2: 4.875rem;
+$font-size-h3: 2.75rem;
+$font-size-h4: 1.625rem;
+$font-size-h5: 1.25rem;
+$font-size-h6: 1rem;
+$headings-font-family: "Lato", Arial, sans-serif;
+$headings-font-weight: 700;
+$small-font-size: 87.5%;
+$display-line-height: 1.4;
+$carousel-caption-color:#a3b1bf;
+$gray-muted-custom: #707e8c;
+$text-muted: $gray-muted-custom;
+
+//Subheaders of sections
+$lead-font-size: 1.375rem;
+$lead-font-weight: 400;
+
+//Links
+$link-color: #a3b1bf;
+$link-hover-decoration: none;
+$link-hover-color: #03b598;
+$active-background: #17a78b;
+
+// Buttons
+$btn-primary-bg:  #00bc9c;
+$btn-primary-border: $btn-primary-bg;
+$btn-padding-x: 1.5rem;
+$btn-padding-y: 1rem;
+$btn-padding-x-lg: 4.375rem;
+$btn-padding-y-lg: 1.3rem;
+$btn-font-weight: $font-weight-bold;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
